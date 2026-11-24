@@ -1,6 +1,6 @@
 # 🚀 Run AI from USB: Local AI Launcher (Qwen Optimized)
 
-A lightweight, fully portable Windows batch script designed to launch and run local AI models directly from a USB drive. This launcher is optimized for **llamafile** and GGUF models, ensuring a seamless, plug-and-play local AI environment with zero installation required.
+A lightweight, fully portable collection of Windows batch and Linux Bash scripts designed to launch and run local AI models directly from a USB drive. This cross-platform launcher is optimized for llamafile and GGUF models, ensuring a seamless, plug-and-play local AI environment with zero installation required.
 
 ## ✨ Features
 
